@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-size: 25px;
+    color: darkgreen;
+    align-items: center;
+}
+#far
+{
+    margin: 15px;
+    padding: 15px;
+    
+}
